@@ -1,0 +1,8 @@
+{
+  "exclude_folders": [
+    "__pycache__",
+    ".git",
+    "temp",
+    ".DS_Store"
+  ]
+}
